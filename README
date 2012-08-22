@@ -1,1 +1,3 @@
 Only for development!
+
+Put sql.sql in you database and put you database data in system/config.php 
