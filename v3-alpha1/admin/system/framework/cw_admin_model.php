@@ -1,1 +1,0 @@
-<?phpabstract class cw_admin_model{	protected $admin_load;	protected $mysql;		function construct()	{		$this->admin_load = new CW_admin_load();	}}
