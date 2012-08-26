@@ -1,1 +1,0 @@
-Gerda is cool!!!!
